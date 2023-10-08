@@ -1,5 +1,5 @@
 ==========================
-#  Wstęp do informatyki  #
+## Wstęp do informatyki  
 ==========================
 
 - Wykłady: Grzegorz Sowa / gsowa@san.edu.pl
@@ -9,7 +9,7 @@
 
 
 ===============
-#  Ćwiczenia  #
+## Ćwiczenia
 ===============
 
 Należało bedzie wykonać i odesłać (do folderu "Zadania" jako rozwiązania) 16 zadań o charakterze arytmetycznym, nie wymagających użycia komputera.
@@ -37,7 +37,7 @@ Tematy zadań:
  - Zadanie 15 Notacja z nadmiarem   
 
 =============================================
-#  Tematy do samodzielnego przestudiowania  #
+## Tematy do samodzielnego przestudiowania
 =============================================
 
 Na potrzeby studentów, którzy zamierzają samodzielnie opanowac podstawy informatyki opracowano w ostatnim czasie w SAN dodatkowy zbiór ćwiczeń.
@@ -66,7 +66,7 @@ Podręczniki dostepne sa w wersji elektronicznej pod tym linkiem:
 https://drive.google.com/drive/folderslllzeAP147tBROWAwIz-MKZSKtOS?usp=drive_link   
 
 =================================
-#  Uwagi na temat podreczników  #
+## Uwagi na temat podreczników
 =================================
 
 • Podręcznik podstawowy: Petzold, Charles 'Kod' Warszawa, Helion 2021
@@ -84,7 +84,7 @@ Inne wydania:
 'Wstępu do informatyki” lepiej korzystać z wydania VIII lub wcześniejszych. Tytuły i numery rozdziałów wymieniane poniżej dotyczą wydania VIII. Po polsku dostepne jest wydanie IV (wydawnictwo WNT 2000) i XI (wydawnictwo PWN 2022)   
 
 ==============
-#  Projekty  #
+## Projekty
 ==============
 
 Elementem zaliczenia przedmiotu jest wykonanie tak zwanego projektu. 
