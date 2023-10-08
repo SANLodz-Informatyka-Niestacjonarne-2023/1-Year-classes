@@ -72,12 +72,14 @@ https://drive.google.com/drive/folderslllzeAP147tBROWAwIz-MKZSKtOS?usp=drive_lin
 • Podręcznik podstawowy: Petzold, Charles 'Kod' Warszawa, Helion 2021
 
 Inne wydania:
+
 • Petzold, Charles 'Kod' Moskwa, Torgowyj dom 2001 (wersja rosyjska)
 • Petzold, Charles 'Code'ISecond Edition, Microsoft Press, Copyright © 2023 by Charles Petzold (wydanie drugie, uzupelnione)
 
 • Podrecznik uzupelniajacy: Stallings, William 'Computer Organization and Architecture', Eighth Ed. Prentice Hall 2010
 
 Inne wydania:
+
 • W nowszych wydaniach (ostatnie to XI) usunięto niektóre elementarne zagadnienia na korzyść omówienia najnowszych rozwiązań, więc na potrzeby
 'Wstępu do informatyki” lepiej korzystać z wydania VIII lub wcześniejszych. Tytuły i numery rozdziałów wymieniane poniżej dotyczą wydania VIII. Po polsku dostepne jest wydanie IV (wydawnictwo WNT 2000) i XI (wydawnictwo PWN 2022)   
 
