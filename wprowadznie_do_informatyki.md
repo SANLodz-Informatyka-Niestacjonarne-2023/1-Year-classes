@@ -36,9 +36,9 @@ Tematy zadań:
  - Zadanie 14 Notacja z uzupelnieniem do 2
  - Zadanie 15 Notacja z nadmiarem   
 
-=============================================
+===========================================
 ## Tematy do samodzielnego przestudiowania
-=============================================
+===========================================
 
 Na potrzeby studentów, którzy zamierzają samodzielnie opanowac podstawy informatyki opracowano w ostatnim czasie w SAN dodatkowy zbiór ćwiczeń.
 Zagadnienia w nich zawarte, są rozwijane na kolejnych semestrach, na różnych przedmiotach.
@@ -65,9 +65,9 @@ Tematy te, bardziej szczegółowo omówione, z odesłaniem do odpowiednich fragm
 Podręczniki dostepne sa w wersji elektronicznej pod tym linkiem:
 https://drive.google.com/drive/folderslllzeAP147tBROWAwIz-MKZSKtOS?usp=drive_link   
 
-=================================
+===============================
 ## Uwagi na temat podreczników
-=================================
+===============================
 
 • Podręcznik podstawowy: Petzold, Charles 'Kod' Warszawa, Helion 2021
 
@@ -83,9 +83,9 @@ Inne wydania:
 • W nowszych wydaniach (ostatnie to XI) usunięto niektóre elementarne zagadnienia na korzyść omówienia najnowszych rozwiązań, więc na potrzeby
 'Wstępu do informatyki” lepiej korzystać z wydania VIII lub wcześniejszych. Tytuły i numery rozdziałów wymieniane poniżej dotyczą wydania VIII. Po polsku dostepne jest wydanie IV (wydawnictwo WNT 2000) i XI (wydawnictwo PWN 2022)   
 
-==============
+=========
 ## Projekty
-==============
+=========
 
 Elementem zaliczenia przedmiotu jest wykonanie tak zwanego projektu. 
 
