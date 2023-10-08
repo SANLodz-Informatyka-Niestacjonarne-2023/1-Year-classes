@@ -1,6 +1,6 @@
-==========================
+======================
 ## Wstęp do informatyki  
-==========================
+======================
 
 - Wykłady: Grzegorz Sowa / gsowa@san.edu.pl
 - Ćwiczenia: N/A
@@ -8,9 +8,9 @@
 - Sposób zaliczenia: Projekt 
 
 
-===============
+==========
 ## Ćwiczenia
-===============
+==========
 
 Należało bedzie wykonać i odesłać (do folderu "Zadania" jako rozwiązania) 16 zadań o charakterze arytmetycznym, nie wymagających użycia komputera.
 
